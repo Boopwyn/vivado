@@ -1,6 +1,6 @@
 # vivado-catpuccin
 
-Catppuccin color theme for Vivado.
+Catppuccin color theme port for Vivado. Inspired by the [Catpuccin Mocha](https://github.com/catppuccin/kitty/blob/main/mocha.conf) theme.
 
 ## Installation
 
