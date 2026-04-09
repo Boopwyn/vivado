@@ -33,8 +33,8 @@
 <!-- </details> -->
 <details>
 <summary>🌿 Mocha</summary>
-![colors](./assets/colors.png)
-![verilog](./assets/verilog.png)
+<img src="./assets/colors.png" alt="colors" />
+<img src="./assets/verilog.png" alt="verilog" />
 </details>
 
 ## 💝 Thanks to
